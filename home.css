@@ -227,3 +227,7 @@ p:nth-child(2){
     color: mistyrose;
     font-size: 30px;
 }
+
+.pa{
+    font-weight: 20px;
+}
